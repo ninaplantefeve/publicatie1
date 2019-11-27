@@ -1,0 +1,21 @@
+/* volgende class is toegevoegd aan de navigatie en regelt de achtergondkleur */
+.bg-white{
+  background-color: white;
+}
+/* volgende class regelt de marges en padding van de navigatie */
+.navbar{
+  z-index: 1000;
+  padding-left: 3%;
+}
+.navbar-collapse{
+margin-left: 1vw;
+}
+.navbar ul{
+  padding-top:60px;
+}
+.navbar .description{
+  padding-top:345px;
+}
+.nav,
+.justify-content-center,
+ul{background-color:#8690A8;}

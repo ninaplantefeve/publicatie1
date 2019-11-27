@@ -1,0 +1,26 @@
+#homesection{
+  background-image: url("../images/achtergrond.jpg");
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#homesection .navbar{padding-top:2.2vh;padding-bottom:2.2vh;}
+
+.bg-white{
+  background-color: white;
+}
+/* volgende class regelt de marges en padding van de navigatie */
+.navbar{
+  z-index: 1000;
+  padding-left: 3%;
+}
+.navbar-collapse{
+margin-left: 1vw;
+}
+.navbar ul{
+  padding-top:60px;
+}
+.navbar .description{
+  padding-top:345px;
+}
